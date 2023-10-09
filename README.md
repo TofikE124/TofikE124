@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tofik Elias</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
-- 🌱 I’m currently learning **React, Git, Typescript, Angular**
+- 🌱 I’m currently learning **Git, Typescript, Angular**
 
 - 👨‍💻 All of my projects are available at [https://brilliant-cupcake-4f1974.netlify.app/](https://brilliant-cupcake-4f1974.netlify.app/)
 
