@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tofik Elias</h1>
+<h1 align="left">Hi 👋, I'm Tofik Elias</h1>
 <h3 align="left">A passionate frontend developer from Israel</h3>
 
 - 🌱 I’m currently learning **Git, Typescript, Angular**
