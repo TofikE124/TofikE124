@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Git, Typescript, Angular**
 
-- 👨‍💻 All of my projects are available at <a href="https://brilliant-cupcake-4f1974.netlify.app/](https://brilliant-cupcake-4f1974.netlify.app/" target="_blank">My Portfolio/</a> 
+- 👨‍💻 All of my projects are available at <a href="https://brilliant-cupcake-4f1974.netlify.app/](https://brilliant-cupcake-4f1974.netlify.app/" target="_blank">My Portfolio</a> 
 
 - 📫 How to reach me **tofikelias77@gmail.com**
 
